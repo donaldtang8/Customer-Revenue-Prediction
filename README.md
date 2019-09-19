@@ -1,4 +1,4 @@
-# Customer Revenue Prediction
+# :chart_with_upwards_trend: Customer Revenue Prediction
 
 ## Description
 
